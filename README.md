@@ -41,14 +41,14 @@ Digital Productivity Hub is a modern, student-focused personal productivity web 
 ### 2. Installation & Setup
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/digital-productivity-hub.git
-cd digital-productivity-hub
+git clone https://github.com/Aryan-chaudhary0-4/Digital_Productivity_Hub.git
+cd Digital_Productivity_Hub
 
 # Install dependencies
 npm install
 
 # Copy environment template
-cp .env.example .env
+copy .env.example .env
 ```
 
 ### 3. Configure Environment Variables
